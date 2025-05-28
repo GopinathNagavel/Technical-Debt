@@ -10,4 +10,6 @@ Documentation Debt:
 Cause:
    --> Time Constraints
    --> Evolving Requirements
-  
+   
+Symptom:
+   --> Slow Onboarding
