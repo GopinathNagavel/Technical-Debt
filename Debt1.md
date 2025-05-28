@@ -6,4 +6,8 @@ Testing Debt:
 
 Documentation Debt:
    --> Traffic scenarios are not covered in vehicle test document.
+
+Cause:
+   --> Time Constraints
+   --> Evolving Requirements
   
